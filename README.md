@@ -1,4 +1,4 @@
-# RapidMiner-Rename
+# Fraud Detection in Personal Injury Claims 🔍🤖⚖️
 
 A legal firm known by the name DAX compensation lawyers (fictitious) has been facing a critical issue in the insurance sector. 
 Identification of fraudulent claims is what we are looking at. A lot of claimants make ill use of the system’s claiming 
