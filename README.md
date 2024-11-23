@@ -1,6 +1,6 @@
 # RapidMiner-Rename
 
-A legal firm known by the name DAX compensation lawyers has been facing a critical issue in the insurance sector. 
+A legal firm known by the name DAX compensation lawyers (fictitious) has been facing a critical issue in the insurance sector. 
 Identification of fraudulent claims is what we are looking at. A lot of claimants make ill use of the system’s claiming 
 procedure by presenting fraudulent personal injury claims. These are serious challenges that lead to extreme financial 
 losses for the company while also putting the genuine claimants under suspicion.
@@ -13,6 +13,7 @@ claimants constantly aim to exploit the firm’s claiming procedure by intention
 unrelated, and exaggerated injuries in order to get a hold of non-deserving compensations. This is resulting in financial 
 losses to the firm while also putting the genuine claimants holding the policies under the suspicious eye thereby 
 questioning the whole system of insurance claims.  
+
 Based on the data presented to us, we are to provide the firm with an effective method enabling them to identify and 
 inspect potential frauds in the future thereby protecting the rights of genuine claimants. We are also aiming at minimising 
 the firm’s financial losses and keeping our client’s best interests in consideration, we want to assist them in practicing 
